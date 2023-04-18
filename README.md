@@ -3,6 +3,7 @@
 This is part of my mini projects - 2/7
 
 Project Title: Random password generator using Javascript
+Please visit the project using this link: https://shubhamkurhade.github.io/randomPasswordGenerator/
 -------------------------------
 Some of the feature:
 1. password generator, provide the randomly generated password using Lowercase, Uppercase, Numbericals, and symbols.
